@@ -4,7 +4,7 @@
 
 Born in Freiberg, Moravia (now Příbor in the Czech Republic), Freud studied medicine at the University of Vienna. He initially worked in neurology but gradually shifted toward the psychological dimensions of mental illness. In the 1890s, he developed the *talking cure*—a process of verbal therapy that laid the groundwork for modern psychoanalysis.
 
-Freud spent most of his professional life in [Vienna](./vienna.md), where he developed the foundations of psychoanalysis.
+Freud spent most of his professional life in [Vienna](./city_vienna.md), where he developed the foundations of psychoanalysis.
 
 Freud introduced several influential theories, including the **unconscious mind**, **psychosexual development**, and the **structural model of the psyche** (id, ego, and superego). He believed that unconscious desires and childhood experiences deeply influence adult behavior. His 1900 book, *The Interpretation of Dreams*, is considered one of his most important works, proposing that dreams are a form of wish fulfillment. 
 
